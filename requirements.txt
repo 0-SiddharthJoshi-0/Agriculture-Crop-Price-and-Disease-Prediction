@@ -62,4 +62,3 @@ urllib3==2.2.3
 Werkzeug==3.0.4
 wrapt==1.16.0
 zipp==3.20.2
-pickle==0.21.3
