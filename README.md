@@ -43,7 +43,7 @@ This application has two core functionalities:
    pip install -r requirements.txt
 3. Run the application with Streamlit:
   ```bash
-     streamlit run app.py
+  streamlit run app.py
 
 ## Screenshots
 
