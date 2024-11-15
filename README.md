@@ -48,9 +48,9 @@ This application has two core functionalities:
 ## Screenshots
 
 ### Crop Health Detection
-![Crop Health Detection](./images/output2.jpg)
+![Crop Price Prediction](./images/output1.jpg)
 
 ### Crop Price Prediction
-![Crop Price Prediction](./images/output1.jpg)
+![Crop Health Detection](./images/output2.jpg)
 
 
