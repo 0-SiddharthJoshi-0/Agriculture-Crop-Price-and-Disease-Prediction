@@ -40,8 +40,10 @@ This application has two core functionalities:
 1. Clone this repository.
 2. Install the required dependencies:
    ```bash
-3. pip install -r requirements.txt
-   streamlit run app.py
+   pip install -r requirements.txt
+3. Run the application with Streamlit:
+  ```bash
+     streamlit run app.py
 
 ## Screenshots
 
