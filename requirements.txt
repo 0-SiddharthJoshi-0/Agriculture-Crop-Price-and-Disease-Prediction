@@ -63,3 +63,4 @@ Werkzeug==3.0.4
 wrapt==1.16.0
 zipp==3.20.2
 scikit-learn==1.5.1 # Use a stable version of scikit-learn
+matplotlib==3.9.2
